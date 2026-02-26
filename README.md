@@ -1,9 +1,11 @@
 Medical Clinic Management System
 
 Project Overview
+
 This represents my first comprehensive implementation of a Client-Server application using Java and relational databases. The system manages medical clinic operations, including patient registration, doctor scheduling, and medical record persistence. It was designed to transition theoretical Object-Oriented Programming (OOP) concepts into a functional, data-driven software solution.
 
 Technical Milestones
+
 As a junior developer, this project served as a practical application of several advanced concepts:
 
 TCP/IP Networking: Established stable communication between a multi-threaded server and multiple concurrent clients using Java Sockets.
