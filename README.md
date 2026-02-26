@@ -1,6 +1,5 @@
-Here is the professional English description for your README.md file, formatted to highlight your technical growth and the architectural patterns you implemented.
-
 Medical Clinic Management System
+
 Project Overview
 This represents my first comprehensive implementation of a Client-Server application using Java and relational databases. The system manages medical clinic operations, including patient registration, doctor scheduling, and medical record persistence. It was designed to transition theoretical Object-Oriented Programming (OOP) concepts into a functional, data-driven software solution.
 
